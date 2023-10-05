@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\bin\Debug\net6.0\task007_трёхзначное_число.exe
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\bin\Debug\net6.0\task007_трёхзначное_число.deps.json
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\bin\Debug\net6.0\task007_трёхзначное_число.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\bin\Debug\net6.0\task007_трёхзначное_число.dll
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\bin\Debug\net6.0\task007_трёхзначное_число.pdb
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.dll
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\refint\task007_трёхзначное_число.dll
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.pdb
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\task007_трёхзначное_число.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\task007_трёхзначное_число\obj\Debug\net6.0\ref\task007_трёхзначное_число.dll

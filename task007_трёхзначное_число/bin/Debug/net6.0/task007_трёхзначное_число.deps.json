@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task007_трёхзначное_число/1.0.0": {
+        "runtime": {
+          "task007_трёхзначное_число.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task007_трёхзначное_число/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

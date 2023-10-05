@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\bin\Debug\net6.0\task03_дни_недели.exe
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\bin\Debug\net6.0\task03_дни_недели.deps.json
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\bin\Debug\net6.0\task03_дни_недели.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\bin\Debug\net6.0\task03_дни_недели.dll
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\bin\Debug\net6.0\task03_дни_недели.pdb
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.dll
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\refint\task03_дни_недели.dll
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.pdb
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\task03_дни_недели.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\task03_дни_недели\obj\Debug\net6.0\ref\task03_дни_недели.dll

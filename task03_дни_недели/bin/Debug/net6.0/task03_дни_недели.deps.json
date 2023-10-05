@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task03_дни_недели/1.0.0": {
+        "runtime": {
+          "task03_дни_недели.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task03_дни_недели/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
