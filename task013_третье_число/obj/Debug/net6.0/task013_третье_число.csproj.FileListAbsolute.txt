@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\bin\Debug\net6.0\task013_третье_число.exe
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\bin\Debug\net6.0\task013_третье_число.deps.json
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\bin\Debug\net6.0\task013_третье_число.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\bin\Debug\net6.0\task013_третье_число.dll
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\bin\Debug\net6.0\task013_третье_число.pdb
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.dll
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\refint\task013_третье_число.dll
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.pdb
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\task013_третье_число.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\task013_третье_число\obj\Debug\net6.0\ref\task013_третье_число.dll

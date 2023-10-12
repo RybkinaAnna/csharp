@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\bin\Debug\net6.0\task015_выходной.exe
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\bin\Debug\net6.0\task015_выходной.deps.json
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\bin\Debug\net6.0\task015_выходной.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\bin\Debug\net6.0\task015_выходной.dll
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\bin\Debug\net6.0\task015_выходной.pdb
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.dll
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\refint\task015_выходной.dll
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.pdb
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\task015_выходной.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\task015_выходной\obj\Debug\net6.0\ref\task015_выходной.dll
