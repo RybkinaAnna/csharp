@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\bin\Debug\net6.0\task025_степени.exe
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\bin\Debug\net6.0\task025_степени.deps.json
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\bin\Debug\net6.0\task025_степени.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\bin\Debug\net6.0\task025_степени.dll
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\bin\Debug\net6.0\task025_степени.pdb
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.dll
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\refint\task025_степени.dll
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.pdb
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\task025_степени.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\task025_степени\obj\Debug\net6.0\ref\task025_степени.dll

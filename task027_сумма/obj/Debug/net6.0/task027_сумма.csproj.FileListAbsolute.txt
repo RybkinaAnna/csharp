@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\bin\Debug\net6.0\task027_сумма.exe
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\bin\Debug\net6.0\task027_сумма.deps.json
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\bin\Debug\net6.0\task027_сумма.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\bin\Debug\net6.0\task027_сумма.dll
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\bin\Debug\net6.0\task027_сумма.pdb
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.dll
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\refint\task027_сумма.dll
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.pdb
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\task027_сумма.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\task027_сумма\obj\Debug\net6.0\ref\task027_сумма.dll
