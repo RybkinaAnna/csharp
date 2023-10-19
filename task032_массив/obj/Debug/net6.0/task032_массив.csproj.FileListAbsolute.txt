@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\bin\Debug\net6.0\task032_массив.exe
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\bin\Debug\net6.0\task032_массив.deps.json
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\bin\Debug\net6.0\task032_массив.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\bin\Debug\net6.0\task032_массив.dll
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\bin\Debug\net6.0\task032_массив.pdb
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.dll
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\refint\task032_массив.dll
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.pdb
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\task032_массив.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\task032_массив\obj\Debug\net6.0\ref\task032_массив.dll

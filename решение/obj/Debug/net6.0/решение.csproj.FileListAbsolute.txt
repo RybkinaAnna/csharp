@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Курсы\C#\решение\bin\Debug\net6.0\решение.exe
+C:\Users\79137\Desktop\Курсы\C#\решение\bin\Debug\net6.0\решение.deps.json
+C:\Users\79137\Desktop\Курсы\C#\решение\bin\Debug\net6.0\решение.runtimeconfig.json
+C:\Users\79137\Desktop\Курсы\C#\решение\bin\Debug\net6.0\решение.dll
+C:\Users\79137\Desktop\Курсы\C#\решение\bin\Debug\net6.0\решение.pdb
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.AssemblyInfo.cs
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.dll
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\refint\решение.dll
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.pdb
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\решение.genruntimeconfig.cache
+C:\Users\79137\Desktop\Курсы\C#\решение\obj\Debug\net6.0\ref\решение.dll
